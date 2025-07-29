@@ -1,5 +1,3 @@
-<img width="1896" height="966" alt="image" src="https://github.com/user-attachments/assets/f989b4fa-1a6c-4b7c-8a16-d7b253114793" /><img width="1896" height="966" alt="image" src="https://github.com/user-attachments/assets/4c4d08e9-ca00-4a16-be69-b72c541bdf01" /># ELAT Admissions Tracker (Domo)
-
 ## 📊 Overview
 This project focuses on visualizing and tracking English Language Admissions Test (ELAT) data for applicants to BYU–Hawaii from 2021 to 2025.  
 It helps the admissions team monitor ELAT completions, pass/fail trends, applicant readiness, and how ELAT performance affects admissions.
