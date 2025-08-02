@@ -29,3 +29,5 @@ This dashboard is used by the BYUH Admissions Frontline and Evaluation Team to:
 - Identify students who need to be reminded about ELAT
 - Improve processing time by flagging missing ELAT data
 - Adjust communications for countries with low pass rates
+
+https://github.com/tiannaparris/Data-Analysis-Portfolio
