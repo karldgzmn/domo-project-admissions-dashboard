@@ -30,22 +30,4 @@ This dashboard is used by the BYUH Admissions Frontline and Evaluation Team to:
 - Improve processing time by flagging missing ELAT data
 - Adjust communications for countries with low pass rates
 
-## Table of Contents
-
-- [About](#about)
-- [Portfolio Projects](#portfolio-projects)
-- [📬 Contact](#-contact)
-
----
-
-## Table of Contents
-
-- [📊 Overview](#-overview)
-- [Portfolio Projects](#portfolio-projects)
-- [📬 Contact](#-contact)
-
-## 📬 Contact
-
-Feel free to reach out!
-Email: yourname@byuh.edu
 
